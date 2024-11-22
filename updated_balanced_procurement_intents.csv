@@ -1,0 +1,913 @@
+user_input,intent
+Show me the most expensive item purchased in fiscal year 2021.?,fiscal_year_expensive_item
+List all items under classification code 12345.?,classification_items
+Which department uses 'CalCard' the most?,acquisition_type_department_usage
+Which supplier has the highest total orders?,supplier_top_orders
+Which supplier has the highest total orders?,supplier_top_orders
+Provide the spending details for the Education department.,department_spending_by_name
+Which department orders the largest quantity of items?,quantity_top_department
+List items purchased in bulk quantities.?,bulk_items
+List the most frequently ordered items.?,frequent_items
+Total money spent on supplier PQR for the last 6 months?,supplier_spending
+What is the cheapest item purchased?,cheapest_item
+How many items were ordered by the Transportation Department?,department_item_count
+Which departments use CalCard the most?,calcard_top_departments
+What orders were placed with Supplier X?,supplier_orders
+What is the total spending for fiscal year 2023?,fiscal_year_spending
+How many orders were placed in fiscal year 2022?,fiscal_year_orders
+Tell me the spending by acquisition type.?,acquisition_spending
+Tell me the spending by acquisition type.?,acquisition_spending
+Tell me the spending by acquisition type.?,acquisition_spending
+Howdy!,greeting
+Which order had the biggest total price?,largest_order
+What is the average unit price for IT items?,avg_unit_price_by_category
+Which department uses 'CalCard' the most?,acquisition_type_department_usage
+List all items under classification code 12345.?,classification_items
+Good day,greeting
+Hi there,greeting
+Show me the items purchased from Supplier X.?,supplier_items
+How many items were ordered by the Transportation Department?,department_item_count
+What is the most frequent acquisition method for IT items?,acquisition_method_frequency
+What are the most popular items in orders?,frequent_line_items
+What is the highest spending quarter?,show_highest_spending_quarter
+List all items under classification code 12345.?,classification_items
+Which department uses 'CalCard' the most?,acquisition_type_department_usage
+Which items are frequently purchased using CalCard?,calcard_frequent_items
+What is the spending for the Finance department?,department_spending_by_name
+Which department orders the largest quantity of items?,quantity_top_department
+Show me the details for item 'Laptop'.?,item_details
+Which supplier has the highest total orders?,supplier_top_orders
+What is the average unit price for IT items?,avg_unit_price_by_category
+What is the total spending with supplier S1234?,supplier_spending
+List items purchased in bulk quantities.?,bulk_items
+What is the total spending by acquisition type 'Contract'?,acquisition_type_spending
+What is the highest spending quarter?,show_highest_spending_quarter
+Show me the total spending by acquisition method 'Bidding'.?,acquisition_method_spending
+What is the most frequent acquisition method for IT items?,acquisition_method_frequency
+Which department spent the most in fiscal year 2020?,fiscal_year_top_department
+List all items under classification code 12345.?,classification_items
+Show me the details for item 'Laptop'.?,item_details
+Which order has the highest total price?,highest_total_price_order
+Which department spent the most in fiscal year 2020?,fiscal_year_top_department
+Which supplier has the highest total orders?,supplier_top_orders
+What is the most frequent acquisition method for IT items?,acquisition_method_frequency
+What is the total price of all orders in Q2 2023?,total_price_by_quarter
+List the acquisition methods used by Department of Education.?,acquisition_method_department
+Show me the details of purchase order PO12345.?,purchase_order_details
+Which supplier fulfilled purchase order PO98765?,purchase_order_supplier
+Provide details of the largest order.,largest_order
+Which department orders the largest quantity of items?,quantity_top_department
+How many orders were made under 'Open Market' acquisition type?,acquisition_type_orders
+What is the total spending for fiscal year 2023?,fiscal_year_spending
+Which supplier has the highest total revenue?,supplier_top_revenue
+Which supplier has the highest total revenue?,supplier_top_revenue
+List items purchased in bulk quantities.?,bulk_items
+List all items under classification code 12345.?,classification_items
+How many items were ordered by the Transportation Department?,department_item_count
+How many orders were placed in fiscal year 2022?,fiscal_year_orders
+Show me the unit price for item 'Desktop'.?,unit_price_item
+Tell me the spending by acquisition type.?,acquisition_spending
+Which classification code has the highest total spending?,top_classification_code
+Which items are frequently purchased using CalCard?,calcard_frequent_items
+Show me the details for item 'Laptop'.?,item_details
+Whatâ€™s the total quantity of items purchased?,total_quantity
+What is the total value of purchase order PO67890?,purchase_order_value
+Which department has the highest spending?,highest_spending_department
+What is the total spending by acquisition type 'Contract'?,acquisition_type_spending
+What is the total value of purchase order PO67890?,purchase_order_value
+List the top suppliers for the 'Direct Purchase' acquisition type.?,acquisition_type_top_suppliers
+List the top suppliers for the 'Direct Purchase' acquisition type.?,acquisition_type_top_suppliers
+What is the spending for the Finance department?,department_spending_by_name
+List the top suppliers for the 'Direct Purchase' acquisition type.?,acquisition_type_top_suppliers
+Which supplier fulfilled purchase order PO98765?,purchase_order_supplier
+List all orders made with Supplier Y.?,supplier_orders
+What is the total spending using CalCard?,calcard_total_spending
+Show me the details for item 'Laptop'.?,item_details
+What is the most frequent acquisition method for IT items?,acquisition_method_frequency
+Which items have the highest unit price?,expensive_items
+"Hi,How are you?",greeting
+What is the cheapest item purchased?,cheapest_item
+What is the total price of all orders in Q2 2023?,total_price_by_quarter
+Which department orders the largest quantity of items?,quantity_top_department
+What is the total spending using CalCard?,calcard_total_spending
+Show me the unit price for item 'Desktop'.?,unit_price_item
+What is the spending breakdown for the Health Department?,department_spending_breakdown
+Which classification code has the highest total spending?,top_classification_code
+What is the average unit price for IT items?,avg_unit_price_by_category
+How many orders were made under 'Open Market' acquisition type?,acquisition_type_orders
+Show me the details of purchase order PO12345.?,purchase_order_details
+Which supplier has the highest total revenue?,supplier_top_revenue
+Show me the highest-value order.,largest_order
+Hey there!,greeting
+"What were the top 5 suppliers by spending last year, and their highest revenue months?",supplier_top_revenue
+What is the total value of purchase order PO67890?,purchase_order_value
+Show me the most frequently purchased items in classification code 67890.?,classification_frequent_items
+What is the total spending by acquisition type 'Contract'?,acquisition_type_spending
+Which department spent the most in fiscal year 2020?,fiscal_year_top_department
+Which department uses 'CalCard' the most?,acquisition_type_department_usage
+What is the spending breakdown for the Health Department?,department_spending_breakdown
+What items were ordered in PO54321?,purchase_order_items
+Which supplier fulfilled purchase order PO98765?,purchase_order_supplier
+How many orders were made under 'Open Market' acquisition type?,acquisition_type_orders
+Which classification code has the highest total spending?,top_classification_code
+Show me the details for item 'Laptop'.?,item_details
+What is the average quantity per order?,avg_quantity_per_order
+What is the average unit price for IT items?,avg_unit_price_by_category
+Which order has the highest total price?,highest_total_price_order
+What is the cheapest item purchased?,cheapest_item
+Which department uses 'CalCard' the most?,acquisition_type_department_usage
+Which items are frequently purchased using CalCard?,calcard_frequent_items
+List all items under classification code 12345.?,classification_items
+Which departments use CalCard the most?,calcard_top_departments
+Provide details of the largest order.,largest_order
+What is the total price of all orders in Q2 2023?,total_price_by_quarter
+List the top suppliers for the 'Direct Purchase' acquisition type.?,acquisition_type_top_suppliers
+"Which items have a unit price above $1,000?",high_unit_price_items
+Which department spent the most in fiscal year 2020?,fiscal_year_top_department
+What is the most frequently ordered item?,frequent_items
+List the top suppliers for the 'Direct Purchase' acquisition type.?,acquisition_type_top_suppliers
+Which items are frequently purchased using CalCard?,calcard_frequent_items
+Show me the items purchased from Supplier X.?,supplier_items
+Hi there,greeting
+List the top suppliers for the 'Direct Purchase' acquisition type.?,acquisition_type_top_suppliers
+What is the highest spending quarter?,show_highest_spending_quarter
+List the top suppliers for the 'Direct Purchase' acquisition type.?,acquisition_type_top_suppliers
+What is the spending breakdown for the Health Department?,department_spending_breakdown
+What is the total spending by acquisition type 'Contract'?,acquisition_type_spending
+Tell me the spending by acquisition type.?,acquisition_spending
+List the acquisition methods used by Department of Education.?,acquisition_method_department
+Good evening,greeting
+List all suppliers for the Education Department.?,department_suppliers
+List the most frequently ordered items.?,frequent_items
+List items purchased in bulk quantities.?,bulk_items
+Which department spent the most in fiscal year 2020?,fiscal_year_top_department
+Show me the details of purchase order PO12345.?,purchase_order_details
+Provide the spending details for the Education department.,department_spending_by_name
+List the acquisition methods used by Department of Education.?,acquisition_method_department
+What orders were placed with Supplier X?,supplier_orders
+List items purchased in bulk quantities.?,bulk_items
+Which acquisition method has the highest average unit price?,acquisition_method_avg_price
+Tell me the spending by acquisition type.?,acquisition_spending
+Show me the total price of all IT-related items.?,total_price_by_category
+Which order had the biggest total price?,largest_order
+What is the total value of purchase order PO67890?,purchase_order_value
+Show me all orders made using CalCard.?,calcard_orders
+How many orders were placed in fiscal year 2022?,fiscal_year_orders
+"Hello, I need details about supplier spending in Q3.",supplier_spending
+Show me all orders made using CalCard.?,calcard_orders
+List items purchased in bulk quantities.?,bulk_items
+Show me the total spending by acquisition method 'Bidding'.?,acquisition_method_spending
+Which department made the most purchases in 2023?,department_top_purchases
+What is the total price of all orders in Q2 2023?,total_price_by_quarter
+Good evening,greeting
+Which department orders the largest quantity of items?,quantity_top_department
+Show me the details for item 'Laptop'.?,item_details
+What about the most expensive items in those orders?,expensive_items
+Show me the total price of all IT-related items.?,total_price_by_category
+Show me the unit price for item 'Desktop'.?,unit_price_item
+Which supplier has the highest total orders?,supplier_top_orders
+Which supplier fulfilled purchase order PO98765?,purchase_order_supplier
+Which items are frequently purchased using CalCard?,calcard_frequent_items
+List all suppliers for the Education Department.?,department_suppliers
+Tell me the total number of orders.?,total_orders
+What orders were placed with Supplier X?,supplier_orders
+Which classification code has the highest total spending?,top_classification_code
+Tell me the spending by acquisition type.?,acquisition_spending
+Which department spent the most in fiscal year 2020?,fiscal_year_top_department
+What is the total spending using CalCard?,calcard_total_spending
+What is the total price of all orders in Q2 2023?,total_price_by_quarter
+Show me the details for item 'Laptop'.?,item_details
+Show me the items purchased from Supplier X.?,supplier_items
+What is the total spending by acquisition type 'Contract'?,acquisition_type_spending
+What are the most popular items in orders?,frequent_line_items
+What is the total spending for fiscal year 2023?,fiscal_year_spending
+How many items were ordered by the Transportation Department?,department_item_count
+What is the total spending with supplier S1234?,supplier_spending
+Which items have the highest unit price?,expensive_items
+show me total orders from 12-12-1012 to 1-11-2012,total_orders
+Show me the items purchased from Supplier X.?,supplier_items
+Which department spent the most overall?,highest_spending_department
+Show me the total price of all IT-related items.?,total_price_by_category
+Show me the most frequently purchased items in classification code 67890.?,classification_frequent_items
+List all suppliers for the Education Department.?,department_suppliers
+"Which items have a unit price above $1,000?",high_unit_price_items
+What is the total value of purchase order PO67890?,purchase_order_value
+Show me the unit price for item 'Desktop'.?,unit_price_item
+Supplier GHI: total revenue in FY 2018?,supplier_spending
+List all orders made with Supplier Y.?,supplier_orders
+Show me the unit price for item 'Desktop'.?,unit_price_item
+What is the total value of purchase order PO67890?,purchase_order_value
+List the top suppliers for the 'Direct Purchase' acquisition type.?,acquisition_type_top_suppliers
+What items were ordered in PO54321?,purchase_order_items
+Which order has the highest total price?,highest_total_price_order
+Which classification code has the highest total spending?,top_classification_code
+Which items have the highest unit price?,expensive_items
+Show me the spending for the IT department.,department_spending_by_name
+Show me the most expensive item purchased in fiscal year 2021.?,fiscal_year_expensive_item
+Which departments use CalCard the most?,calcard_top_departments
+Which department has the highest spending?,highest_spending_department
+How many items were ordered by the Transportation Department?,department_item_count
+Which order has the highest total price?,highest_total_price_order
+Which department uses 'CalCard' the most?,acquisition_type_department_usage
+Show me the most expensive item purchased in fiscal year 2021.?,fiscal_year_expensive_item
+What is the total value of purchase order PO67890?,purchase_order_value
+What is the total spending for fiscal year 2023?,fiscal_year_spending
+Which department uses 'CalCard' the most?,acquisition_type_department_usage
+Which department made the most purchases in 2023?,department_top_purchases
+What is the spending breakdown by classification code?,classification_spending_breakdown
+Show me the quarter with the most spending.?,show_highest_spending_quarter
+What is the spending breakdown for the Health Department?,department_spending_breakdown
+What is the total quantity of items ordered?,total_quantity
+What orders were placed with Supplier X?,supplier_orders
+Which department spent the most in fiscal year 2020?,fiscal_year_top_department
+What is the spending breakdown for the Health Department?,department_spending_breakdown
+What is the spending breakdown by classification code?,classification_spending_breakdown
+What is the total spending using CalCard?,calcard_total_spending
+Show me the most expensive item purchased in fiscal year 2021.?,fiscal_year_expensive_item
+What is the total value of purchase order PO67890?,purchase_order_value
+Tell me the total number of orders.?,total_orders
+What is the most frequently ordered item?,frequent_items
+Show spending details per department.?,department_spending
+Which supplier has the highest total orders?,supplier_top_orders
+Show me the most frequently purchased items in classification code 67890.?,classification_frequent_items
+What is the total price of all orders in Q2 2023?,total_price_by_quarter
+Which order has the highest total price?,highest_total_price_order
+Show me all orders made using CalCard.?,calcard_orders
+Which supplier has the highest total orders?,supplier_top_orders
+Which department orders the largest quantity of items?,quantity_top_department
+Show me the total price of all IT-related items.?,total_price_by_category
+What items were ordered in PO54321?,purchase_order_items
+What is the highest spending quarter?,show_highest_spending_quarter
+Which department orders the largest quantity of items?,quantity_top_department
+Which department spent the most in fiscal year 2020?,fiscal_year_top_department
+How many orders were made last month?,total_orders
+List the acquisition methods used by Department of Education.?,acquisition_method_department
+Show me the total spending by acquisition method 'Bidding'.?,acquisition_method_spending
+List all suppliers for the Education Department.?,department_suppliers
+How much did the Health department spend?,department_spending_by_name
+Show spending details per department.?,department_spending
+Show me the total spending by acquisition method 'Bidding'.?,acquisition_method_spending
+How much did the Health department spend?,department_spending_by_name
+How many orders were made under 'Open Market' acquisition type?,acquisition_type_orders
+What is the total spending by acquisition type 'Contract'?,acquisition_type_spending
+Show me the quarter with the most spending.?,show_highest_spending_quarter
+What is the total spending by acquisition type 'Contract'?,acquisition_type_spending
+What is the total spending for fiscal year 2023?,fiscal_year_spending
+Tell me the spending by acquisition type.?,acquisition_spending
+What is the average quantity per order?,avg_quantity_per_order
+Which supplier has the highest total orders?,supplier_top_orders
+Which classification code has the highest total spending?,top_classification_code
+Show me the most frequently purchased items in classification code 67890.?,classification_frequent_items
+Show me the unit price for item 'Desktop'.?,unit_price_item
+List items purchased in bulk quantities.?,bulk_items
+Show me the details for item 'Laptop'.?,item_details
+Hi there,greeting
+What is the spending by each department?,department_spending
+What items were ordered in PO54321?,purchase_order_items
+Whatâ€™s the total quantity of items purchased?,total_quantity
+Which acquisition method has the highest average unit price?,acquisition_method_avg_price
+List the acquisition methods used by Department of Education.?,acquisition_method_department
+Which acquisition method has the highest average unit price?,acquisition_method_avg_price
+Which supplier has the highest total revenue?,supplier_top_revenue
+Which items are frequently purchased using CalCard?,calcard_frequent_items
+List all items under classification code 12345.?,classification_items
+What is the total spending using CalCard?,calcard_total_spending
+Which items are frequently purchased using CalCard?,calcard_frequent_items
+What is the spending breakdown by classification code?,classification_spending_breakdown
+Show me the most commonly ordered items.,frequent_line_items
+Which acquisition method has the highest average unit price?,acquisition_method_avg_price
+What is the total spending by acquisition type 'Contract'?,acquisition_type_spending
+Which department made the most purchases in 2023?,department_top_purchases
+Which departments use CalCard the most?,calcard_top_departments
+Show me the details of purchase order PO12345.?,purchase_order_details
+What is the total spending by acquisition type 'Contract'?,acquisition_type_spending
+Show me the most expensive item purchased in fiscal year 2021.?,fiscal_year_expensive_item
+How many items were ordered by the Transportation Department?,department_item_count
+List all suppliers for the Education Department.?,department_suppliers
+What about the most expensive items in those orders?,expensive_items
+Provide the spending details for the Education department.,department_spending_by_name
+Show me all items ordered in quantities greater than 100.?,large_quantity_orders
+Tell me the spending by acquisition type.?,acquisition_spending
+What is the spending breakdown for the Health Department?,department_spending_breakdown
+Howdy!,greeting
+What is the total value of purchase order PO67890?,purchase_order_value
+Which supplier has the highest total revenue?,supplier_top_revenue
+Show me the items purchased from Supplier X.?,supplier_items
+How many items were ordered by the Transportation Department?,department_item_count
+Which supplier has the highest total revenue?,supplier_top_revenue
+Show me the details of purchase order PO12345.?,purchase_order_details
+What was the expenditure on supplier DEF in June 2021?,supplier_spending
+Show me the total spending by acquisition method 'Bidding'.?,acquisition_method_spending
+Which order has the highest total price?,highest_total_price_order
+Which department orders the largest quantity of items?,quantity_top_department
+What is the total spending by acquisition type 'Contract'?,acquisition_type_spending
+Show me the details of purchase order PO12345.?,purchase_order_details
+Whatâ€™s the total quantity of items purchased?,total_quantity
+Which supplier has the highest total revenue?,supplier_top_revenue
+Show me the details of purchase order PO12345.?,purchase_order_details
+How many orders were made last month?,total_orders
+What is the largest order placed?,largest_order
+Show me all orders made using CalCard.?,calcard_orders
+"Hi,How are you?",greeting
+What is the average unit price for IT items?,avg_unit_price_by_category
+Tell me the spending by acquisition type.?,acquisition_spending
+List the top suppliers for the 'Direct Purchase' acquisition type.?,acquisition_type_top_suppliers
+Show spending details per department.?,department_spending
+Which supplier fulfilled purchase order PO98765?,purchase_order_supplier
+Show me the details for item 'Laptop'.?,item_details
+What is the total quantity of items ordered?,total_quantity
+What is the average quantity per order?,avg_quantity_per_order
+Which supplier has the highest total revenue?,supplier_top_revenue
+List the top purchased items.,frequent_line_items
+Whatâ€™s the total quantity of items purchased?,total_quantity
+Show me all items ordered in quantities greater than 100.?,large_quantity_orders
+Good morning! Can you tell me the fiscal year with the most orders?,fiscal_year_orders
+List all suppliers for the Education Department.?,department_suppliers
+What is the total price of all orders in Q2 2023?,total_price_by_quarter
+What is the highest spending quarter?,show_highest_spending_quarter
+List all orders made with Supplier Y.?,supplier_orders
+Which department spent the most in fiscal year 2020?,fiscal_year_top_department
+Which supplier has the highest total orders?,supplier_top_orders
+Show me the total spending by acquisition method 'Bidding'.?,acquisition_method_spending
+What is the total spending with supplier S1234?,supplier_spending
+Which supplier has the highest total orders?,supplier_top_orders
+Which quarter had the highest expenditure?,show_highest_spending_quarter
+What is the total spending for fiscal year 2023?,fiscal_year_spending
+What orders were placed with Supplier X?,supplier_orders
+Show me the unit price for item 'Desktop'.?,unit_price_item
+Which department made the most purchases in 2023?,department_top_purchases
+What is the total spending by acquisition type 'Contract'?,acquisition_type_spending
+What items were ordered in PO54321?,purchase_order_items
+What is the total spending for fiscal year 2023?,fiscal_year_spending
+What is the average quantity per order?,avg_quantity_per_order
+Show me the unit price for item 'Desktop'.?,unit_price_item
+Which department made the most purchases in 2023?,department_top_purchases
+What is the total spending with supplier S1234?,supplier_spending
+Show me the most expensive item purchased in fiscal year 2021.?,fiscal_year_expensive_item
+Show me the total spending by acquisition method 'Bidding'.?,acquisition_method_spending
+Show me the items purchased from Supplier X.?,supplier_items
+Which items have the highest unit price?,expensive_items
+What orders were placed with Supplier X?,supplier_orders
+Which acquisition method has the highest average unit price?,acquisition_method_avg_price
+Which acquisition method has the highest average unit price?,acquisition_method_avg_price
+What is the most frequent acquisition method for IT items?,acquisition_method_frequency
+What is the cheapest item purchased?,cheapest_item
+Give the total number of orders from Q2 2020.,total_orders
+Show me all items ordered in quantities greater than 100.?,large_quantity_orders
+Show me the total price of all IT-related items.?,total_price_by_category
+Which department made the most purchases in 2023?,department_top_purchases
+Show me the details for item 'Laptop'.?,item_details
+Show me the total spending by acquisition method 'Bidding'.?,acquisition_method_spending
+What is the average unit price for IT items?,avg_unit_price_by_category
+What is the spending breakdown for the Health Department?,department_spending_breakdown
+What is the spending breakdown by classification code?,classification_spending_breakdown
+Tell me the spending by acquisition type.?,acquisition_spending
+What is the spending breakdown for the Health Department?,department_spending_breakdown
+Show me all items ordered in quantities greater than 100.?,large_quantity_orders
+List items purchased in bulk quantities.?,bulk_items
+Show me the most frequently purchased items in classification code 67890.?,classification_frequent_items
+Which items are frequently purchased using CalCard?,calcard_frequent_items
+Show me the details of purchase order PO12345.?,purchase_order_details
+List the most frequently ordered items.?,frequent_items
+What is the spending for the Finance department?,department_spending_by_name
+What is the spending breakdown for the Health Department?,department_spending_breakdown
+"Hi,How are you?",greeting
+"Which items have a unit price above $1,000?",high_unit_price_items
+Show me the total spending by acquisition method 'Bidding'.?,acquisition_method_spending
+What is the spending breakdown for the Health Department?,department_spending_breakdown
+What is the total price of all orders in Q2 2023?,total_price_by_quarter
+"Hi there, can you show me the highest unit price items for 2022?",high_unit_price_items
+Which classification code has the highest total spending?,top_classification_code
+Which items have the highest unit price?,expensive_items
+Show me the total spending by acquisition method 'Bidding'.?,acquisition_method_spending
+What about the most expensive items in those orders?,expensive_items
+Show me the items purchased from Supplier X.?,supplier_items
+Which order had the biggest total price?,largest_order
+Which department made the most purchases in 2023?,department_top_purchases
+Which department made the most purchases in 2023?,department_top_purchases
+Which department uses 'CalCard' the most?,acquisition_type_department_usage
+Tell me the spending by acquisition type.?,acquisition_spending
+Which department uses 'CalCard' the most?,acquisition_type_department_usage
+Which items have the highest unit price?,expensive_items
+How many orders were placed between March and June 2021?,total_orders
+Show me the quarter with the most spending.?,show_highest_spending_quarter
+How many orders were placed in fiscal year 2022?,fiscal_year_orders
+Good morning! Can you tell me the fiscal year with the most orders?,fiscal_year_orders
+Which department spent the most in fiscal year 2020?,fiscal_year_top_department
+Show me the details of purchase order PO12345.?,purchase_order_details
+How many items were ordered by the Transportation Department?,department_item_count
+Show me the most frequently purchased items in classification code 67890.?,classification_frequent_items
+Which departments use CalCard the most?,calcard_top_departments
+What is the total price of all orders in Q2 2023?,total_price_by_quarter
+Show me all items ordered in quantities greater than 100.?,large_quantity_orders
+How many items were ordered by the Transportation Department?,department_item_count
+What is the spending breakdown for the Health Department?,department_spending_breakdown
+List the top suppliers for the 'Direct Purchase' acquisition type.?,acquisition_type_top_suppliers
+Show me all items ordered in quantities greater than 100.?,large_quantity_orders
+List the acquisition methods used by Department of Education.?,acquisition_method_department
+What is the average quantity per order?,avg_quantity_per_order
+What is the cheapest item purchased?,cheapest_item
+Show me all orders made using CalCard.?,calcard_orders
+Which classification code has the highest total spending?,top_classification_code
+What items were ordered in PO54321?,purchase_order_items
+What is the total spending using CalCard?,calcard_total_spending
+Which department spent the most in fiscal year 2020?,fiscal_year_top_department
+What are the most popular items in orders?,frequent_line_items
+"Show me the total orders for 2020, and compare it with 2021.",total_orders
+Tell me the total number of orders.?,total_orders
+Show me the unit price for item 'Desktop'.?,unit_price_item
+What items were ordered in PO54321?,purchase_order_items
+Show me the total spending by acquisition method 'Bidding'.?,acquisition_method_spending
+Which items are frequently purchased using CalCard?,calcard_frequent_items
+Show me the unit price for item 'Desktop'.?,unit_price_item
+Show me the total price of all IT-related items.?,total_price_by_category
+Show me the details for item 'Laptop'.?,item_details
+Show me all items ordered in quantities greater than 100.?,large_quantity_orders
+Which departments use CalCard the most?,calcard_top_departments
+Provide details of the largest order.,largest_order
+Which department spent the most in fiscal year 2020?,fiscal_year_top_department
+Tell me the spending by acquisition type.?,acquisition_spending
+Tell me the total number of orders.?,total_orders
+What is the most frequently ordered item?,frequent_items
+What is the total spending with supplier S1234?,supplier_spending
+Which supplier has the highest total orders?,supplier_top_orders
+Show me the details for item 'Laptop'.?,item_details
+What is the average unit price for IT items?,avg_unit_price_by_category
+What are the most popular items in orders?,frequent_line_items
+Which department has the highest spending?,highest_spending_department
+Tell me the spending by acquisition type.?,acquisition_spending
+Show me the items purchased from Supplier X.?,supplier_items
+Show me the unit price for item 'Desktop'.?,unit_price_item
+List all items under classification code 12345.?,classification_items
+Tell me the spending by acquisition type.?,acquisition_spending
+Which order has the highest total price?,highest_total_price_order
+Which supplier fulfilled purchase order PO98765?,purchase_order_supplier
+Which items have the highest unit price?,expensive_items
+Which order had the biggest total price?,largest_order
+What is the largest order placed?,largest_order
+How many orders were made under 'Open Market' acquisition type?,acquisition_type_orders
+Which acquisition method has the highest average unit price?,acquisition_method_avg_price
+Show me all items ordered in quantities greater than 100.?,large_quantity_orders
+What is the cheapest item purchased?,cheapest_item
+Show me the quarter with the most spending.?,show_highest_spending_quarter
+What is the most frequent acquisition method for IT items?,acquisition_method_frequency
+List the departments with the most frequent purchases and their total spending.,department_spending
+Hi there,greeting
+What is the total spending for fiscal year 2023?,fiscal_year_spending
+List items purchased in bulk quantities.?,bulk_items
+Which department uses 'CalCard' the most?,acquisition_type_department_usage
+Which acquisition method has the highest average unit price?,acquisition_method_avg_price
+Hey there!,greeting
+Which quarter had the highest expenditure?,show_highest_spending_quarter
+What is the cheapest item purchased?,cheapest_item
+Show me all items ordered in quantities greater than 100.?,large_quantity_orders
+What items were ordered in PO54321?,purchase_order_items
+How many items were ordered by the Transportation Department?,department_item_count
+Which department made the most purchases in 2023?,department_top_purchases
+Which supplier fulfilled purchase order PO98765?,purchase_order_supplier
+Which items have the highest unit price?,expensive_items
+What is the spending breakdown by classification code?,classification_spending_breakdown
+"Which items have a unit price above $1,000?",high_unit_price_items
+"Which items have a unit price above $1,000?",high_unit_price_items
+Show me the most frequently purchased items in classification code 67890.?,classification_frequent_items
+What is the total value of purchase order PO67890?,purchase_order_value
+Which supplier fulfilled purchase order PO98765?,purchase_order_supplier
+How many orders were made last month?,total_orders
+What is the largest order placed?,largest_order
+Which items are frequently purchased using CalCard?,calcard_frequent_items
+How many items were ordered by the Transportation Department?,department_item_count
+Show me the total price of all IT-related items.?,total_price_by_category
+What is the spending breakdown for the Health Department?,department_spending_breakdown
+"Which items have a unit price above $1,000?",high_unit_price_items
+Which acquisition method has the highest average unit price?,acquisition_method_avg_price
+What is the total spending using CalCard?,calcard_total_spending
+"Which items have a unit price above $1,000?",high_unit_price_items
+List the acquisition methods used by Department of Education.?,acquisition_method_department
+Which supplier fulfilled purchase order PO98765?,purchase_order_supplier
+What is the total spending using CalCard?,calcard_total_spending
+List items purchased in bulk quantities.?,bulk_items
+Which supplier had the highest order count from the list you provided?,supplier_orders
+Show me the total spending by acquisition method 'Bidding'.?,acquisition_method_spending
+Which acquisition method has the highest average unit price?,acquisition_method_avg_price
+Which department orders the largest quantity of items?,quantity_top_department
+What is the average quantity per order?,avg_quantity_per_order
+What is the spending by each department?,department_spending
+What are the most popular items in orders?,frequent_line_items
+How many orders were made under 'Open Market' acquisition type?,acquisition_type_orders
+List all suppliers for the Education Department.?,department_suppliers
+Show me the most frequently purchased items in classification code 67890.?,classification_frequent_items
+Which classification code has the highest total spending?,top_classification_code
+What items were ordered in PO54321?,purchase_order_items
+What is the average unit price for IT items?,avg_unit_price_by_category
+Which department orders the largest quantity of items?,quantity_top_department
+Show me the unit price for item 'Desktop'.?,unit_price_item
+Which department orders the largest quantity of items?,quantity_top_department
+Which supplier has the highest total orders?,supplier_top_orders
+How many orders were placed in fiscal year 2022?,fiscal_year_orders
+Show me the items purchased from Supplier X.?,supplier_items
+Which classification code has the highest total spending?,top_classification_code
+List the acquisition methods used by Department of Education.?,acquisition_method_department
+What is the total spending by acquisition type 'Contract'?,acquisition_type_spending
+What items were ordered in PO54321?,purchase_order_items
+Which order has the highest total price?,highest_total_price_order
+What is the largest order placed?,largest_order
+List all items under classification code 12345.?,classification_items
+List items purchased in bulk quantities.?,bulk_items
+What items were ordered in PO54321?,purchase_order_items
+Show me the quarter with the most spending.?,show_highest_spending_quarter
+What is the average quantity per order?,avg_quantity_per_order
+Which department orders the largest quantity of items?,quantity_top_department
+Show me the items purchased from Supplier X.?,supplier_items
+Which items are most frequently ordered?,frequent_line_items
+What is the spending by each department?,department_spending
+"Which items have a unit price above $1,000?",high_unit_price_items
+What is the total spending using CalCard?,calcard_total_spending
+Which supplier had the highest order count from the list you provided?,supplier_orders
+Which supplier has the highest total orders?,supplier_top_orders
+Which department made the most purchases in 2023?,department_top_purchases
+Which supplier has the highest total revenue?,supplier_top_revenue
+List the acquisition methods used by Department of Education.?,acquisition_method_department
+Show me the total price of all IT-related items.?,total_price_by_category
+What is the average unit price for IT items?,avg_unit_price_by_category
+Which department spent the most in fiscal year 2020?,fiscal_year_top_department
+What is the total spending with supplier S1234?,supplier_spending
+Show me the most frequently purchased items in classification code 67890.?,classification_frequent_items
+What is the cheapest item purchased?,cheapest_item
+Show me the most frequently purchased items in classification code 67890.?,classification_frequent_items
+What is the total quantity of items ordered?,total_quantity
+What is the spending for the Finance department?,department_spending_by_name
+How many orders were placed in fiscal year 2022?,fiscal_year_orders
+Show me the details of purchase order PO12345.?,purchase_order_details
+List the most frequently ordered items.?,frequent_items
+List all items under classification code 12345.?,classification_items
+What is the average quantity per order?,avg_quantity_per_order
+Show me the most commonly ordered items.,frequent_line_items
+What is the spending breakdown by classification code?,classification_spending_breakdown
+List the departments with the most frequent purchases and their total spending.,department_spending
+Which acquisition method has the highest average unit price?,acquisition_method_avg_price
+Which department uses 'CalCard' the most?,acquisition_type_department_usage
+What is the total spending with supplier S1234?,supplier_spending
+"Which items have a unit price above $1,000?",high_unit_price_items
+Which department spent the most in fiscal year 2020?,fiscal_year_top_department
+What is the most frequently ordered item?,frequent_items
+List the top suppliers for the 'Direct Purchase' acquisition type.?,acquisition_type_top_suppliers
+What are the most popular items in orders?,frequent_line_items
+Show me all items ordered in quantities greater than 100.?,large_quantity_orders
+"Which items have a unit price above $1,000?",high_unit_price_items
+What is the total spending by acquisition type 'Contract'?,acquisition_type_spending
+Show me all items ordered in quantities greater than 100.?,large_quantity_orders
+What is the total value of purchase order PO67890?,purchase_order_value
+Which departments use CalCard the most?,calcard_top_departments
+Show me the most expensive item purchased in fiscal year 2021.?,fiscal_year_expensive_item
+Which department spent the most overall?,highest_spending_department
+What is the average unit price for IT items?,avg_unit_price_by_category
+List the top suppliers for the 'Direct Purchase' acquisition type.?,acquisition_type_top_suppliers
+Show me the total spending by acquisition method 'Bidding'.?,acquisition_method_spending
+Which order had the biggest total price?,largest_order
+How many orders were placed in fiscal year 2022?,fiscal_year_orders
+List all suppliers for the Education Department.?,department_suppliers
+Show spending details per department.?,department_spending
+Show me all orders made using CalCard.?,calcard_orders
+Show me the details of purchase order PO12345.?,purchase_order_details
+What is the total spending with supplier S1234?,supplier_spending
+What is the most frequent acquisition method for IT items?,acquisition_method_frequency
+List all orders made with Supplier Y.?,supplier_orders
+Which department spent the most overall?,highest_spending_department
+List all items under classification code 12345.?,classification_items
+Show me the total spending by acquisition method 'Bidding'.?,acquisition_method_spending
+What is the average unit price for IT items?,avg_unit_price_by_category
+Which items are frequently purchased using CalCard?,calcard_frequent_items
+Which acquisition method has the highest average unit price?,acquisition_method_avg_price
+List the top suppliers for the 'Direct Purchase' acquisition type.?,acquisition_type_top_suppliers
+Which supplier fulfilled purchase order PO98765?,purchase_order_supplier
+How much has supplier ABC earned this year?,supplier_spending
+What is the total spending using CalCard?,calcard_total_spending
+What is the highest spending quarter?,show_highest_spending_quarter
+What are the most popular items in orders?,frequent_line_items
+Which supplier has the highest total orders?,supplier_top_orders
+Which supplier fulfilled purchase order PO98765?,purchase_order_supplier
+How many orders were placed in fiscal year 2022?,fiscal_year_orders
+Show me the most commonly ordered items.,frequent_line_items
+Which classification code has the highest total spending?,top_classification_code
+List the acquisition methods used by Department of Education.?,acquisition_method_department
+Which department spent the most overall?,highest_spending_department
+What is the spending breakdown by classification code?,classification_spending_breakdown
+What are the most popular items in orders?,frequent_line_items
+Which order has the highest total price?,highest_total_price_order
+Which department made the most purchases in 2023?,department_top_purchases
+How many items were ordered by the Transportation Department?,department_item_count
+What is the most frequent acquisition method for IT items?,acquisition_method_frequency
+Which department has the highest spending?,highest_spending_department
+List all items under classification code 12345.?,classification_items
+What is the total spending by acquisition type 'Contract'?,acquisition_type_spending
+List the top spending department.,highest_spending_department
+Show me the details of purchase order PO12345.?,purchase_order_details
+Show me all orders made using CalCard.?,calcard_orders
+What is the spending by each department?,department_spending
+What is the average quantity per order?,avg_quantity_per_order
+Show me the most expensive item purchased in fiscal year 2021.?,fiscal_year_expensive_item
+Show me all orders made using CalCard.?,calcard_orders
+What is the total price of all orders in Q2 2023?,total_price_by_quarter
+Which supplier fulfilled purchase order PO98765?,purchase_order_supplier
+What is the total spending using CalCard?,calcard_total_spending
+What is the total price of all orders in Q2 2023?,total_price_by_quarter
+Show me the unit price for item 'Desktop'.?,unit_price_item
+Show me the unit price for item 'Desktop'.?,unit_price_item
+What is the total spending by acquisition type 'Contract'?,acquisition_type_spending
+"Which items have a unit price above $1,000?",high_unit_price_items
+List all orders made with Supplier Y.?,supplier_orders
+What is the spending by each department?,department_spending
+What is the total quantity of items ordered?,total_quantity
+How much did the Health department spend?,department_spending_by_name
+Which order has the highest total price?,highest_total_price_order
+List all items under classification code 12345.?,classification_items
+Which departments use CalCard the most?,calcard_top_departments
+How many orders were made last month?,total_orders
+What is the cheapest item purchased?,cheapest_item
+How many orders were placed in fiscal year 2022?,fiscal_year_orders
+What is the total spending for fiscal year 2023?,fiscal_year_spending
+What is the most frequently ordered item?,frequent_items
+What is the total value of purchase order PO67890?,purchase_order_value
+Show me all orders made using CalCard.?,calcard_orders
+How many orders were made under 'Open Market' acquisition type?,acquisition_type_orders
+What is the average quantity per order?,avg_quantity_per_order
+What is the total spending using CalCard?,calcard_total_spending
+List items purchased in bulk quantities.?,bulk_items
+What items were ordered in PO54321?,purchase_order_items
+What is the average quantity per order?,avg_quantity_per_order
+What is the total value of purchase order PO67890?,purchase_order_value
+Whatâ€™s the total quantity of items purchased?,total_quantity
+Show spending details per department.?,department_spending
+What is the total spending using CalCard?,calcard_total_spending
+Show me the most expensive item purchased in fiscal year 2021.?,fiscal_year_expensive_item
+What is the spending breakdown for the Health Department?,department_spending_breakdown
+Which department uses 'CalCard' the most?,acquisition_type_department_usage
+What is the cheapest item purchased?,cheapest_item
+Which items are frequently purchased using CalCard?,calcard_frequent_items
+Show spending details per department.?,department_spending
+List the departments with the most frequent purchases and their total spending.,department_spending
+List items purchased in bulk quantities.?,bulk_items
+Which department made the most purchases in 2023?,department_top_purchases
+Show me all orders made using CalCard.?,calcard_orders
+Show me the items purchased from Supplier X.?,supplier_items
+What is the total spending for fiscal year 2023?,fiscal_year_spending
+Which department spent the most in fiscal year 2020?,fiscal_year_top_department
+Show me all items ordered in quantities greater than 100.?,large_quantity_orders
+"Which items have a unit price above $1,000?",high_unit_price_items
+What is the spending breakdown by classification code?,classification_spending_breakdown
+What is the average quantity per order?,avg_quantity_per_order
+Which supplier has the highest total revenue?,supplier_top_revenue
+List the top spending department.,highest_spending_department
+Which order has the highest total price?,highest_total_price_order
+What is the average quantity per order?,avg_quantity_per_order
+Which acquisition method has the highest average unit price?,acquisition_method_avg_price
+What is the total value of purchase order PO67890?,purchase_order_value
+What is the total quantity of items ordered?,total_quantity
+"Hi there, can you show me the highest unit price items for 2022?",high_unit_price_items
+Show me all items ordered in quantities greater than 100.?,large_quantity_orders
+Which order has the highest total price?,highest_total_price_order
+Which quarter had the highest expenditure?,show_highest_spending_quarter
+What is the most frequently ordered item?,frequent_items
+What is the total quantity of items ordered?,total_quantity
+List the top spending department.,highest_spending_department
+Which supplier has the highest total revenue?,supplier_top_revenue
+What is the average unit price for IT items?,avg_unit_price_by_category
+Whatâ€™s the total quantity of items purchased?,total_quantity
+What is the total spending using CalCard?,calcard_total_spending
+List all suppliers for the Education Department.?,department_suppliers
+List all suppliers for the Education Department.?,department_suppliers
+Show me the details for item 'Laptop'.?,item_details
+Show me the most expensive item purchased in fiscal year 2021.?,fiscal_year_expensive_item
+How much did the Health department spend?,department_spending_by_name
+Show me all orders made using CalCard.?,calcard_orders
+Which department made the most purchases in 2023?,department_top_purchases
+What is the average unit price for IT items?,avg_unit_price_by_category
+List all items under classification code 12345.?,classification_items
+Which departments use CalCard the most?,calcard_top_departments
+Show me the total price of all IT-related items.?,total_price_by_category
+Which department spent the most overall?,highest_spending_department
+What is the most frequent acquisition method for IT items?,acquisition_method_frequency
+What items were ordered in PO54321?,purchase_order_items
+Show me the most frequently purchased items in classification code 67890.?,classification_frequent_items
+Show me the quarter with the most spending.?,show_highest_spending_quarter
+What is the most frequent acquisition method for IT items?,acquisition_method_frequency
+"Which items have a unit price above $1,000?",high_unit_price_items
+Which departments use CalCard the most?,calcard_top_departments
+Which supplier fulfilled purchase order PO98765?,purchase_order_supplier
+How many items were ordered by the Transportation Department?,department_item_count
+List the top suppliers for the 'Direct Purchase' acquisition type.?,acquisition_type_top_suppliers
+List items purchased in bulk quantities.?,bulk_items
+Which classification code has the highest total spending?,top_classification_code
+Which department spent the most overall?,highest_spending_department
+List all items under classification code 12345.?,classification_items
+Which supplier fulfilled purchase order PO98765?,purchase_order_supplier
+What is the total spending using CalCard?,calcard_total_spending
+Show me all orders made using CalCard.?,calcard_orders
+Which department orders the largest quantity of items?,quantity_top_department
+Show me the most expensive item purchased in fiscal year 2021.?,fiscal_year_expensive_item
+Whatâ€™s the total quantity of items purchased?,total_quantity
+List all suppliers for the Education Department.?,department_suppliers
+Which supplier has the highest total orders?,supplier_top_orders
+What items were ordered in PO54321?,purchase_order_items
+What is the average unit price for IT items?,avg_unit_price_by_category
+What is the average unit price for IT items?,avg_unit_price_by_category
+Which acquisition method has the highest average unit price?,acquisition_method_avg_price
+Which classification code has the highest total spending?,top_classification_code
+Show me the total price of all IT-related items.?,total_price_by_category
+Which supplier fulfilled purchase order PO98765?,purchase_order_supplier
+Which items are most frequently ordered?,frequent_line_items
+Show me the most frequently purchased items in classification code 67890.?,classification_frequent_items
+List the acquisition methods used by Department of Education.?,acquisition_method_department
+Show me the items purchased from Supplier X.?,supplier_items
+What is the most frequent acquisition method for IT items?,acquisition_method_frequency
+What is the average unit price for IT items?,avg_unit_price_by_category
+Which order had the biggest total price?,largest_order
+Which department made the most purchases in 2023?,department_top_purchases
+List all suppliers for the Education Department.?,department_suppliers
+What is the average quantity per order?,avg_quantity_per_order
+Which department made the most purchases in 2023?,department_top_purchases
+Show me the most expensive item purchased in fiscal year 2021.?,fiscal_year_expensive_item
+Show me the department with the most spending.,highest_spending_department
+Which department uses 'CalCard' the most?,acquisition_type_department_usage
+Which items are most frequently ordered?,frequent_line_items
+What is the total spending by acquisition type 'Contract'?,acquisition_type_spending
+Which items have the highest unit price?,expensive_items
+List the most frequently ordered items.?,frequent_items
+Which departments use CalCard the most?,calcard_top_departments
+Show spending details per department.?,department_spending
+Show me the total spending by acquisition method 'Bidding'.?,acquisition_method_spending
+How many orders were placed in fiscal year 2022?,fiscal_year_orders
+Tell me the spending by acquisition type.?,acquisition_spending
+Show me the details of purchase order PO12345.?,purchase_order_details
+Show me the most expensive item purchased in fiscal year 2021.?,fiscal_year_expensive_item
+What is the spending breakdown by classification code?,classification_spending_breakdown
+What is the spending breakdown by classification code?,classification_spending_breakdown
+How much did the Health department spend?,department_spending_by_name
+What is the cheapest item purchased?,cheapest_item
+Which items have the highest unit price?,expensive_items
+How many orders were made under 'Open Market' acquisition type?,acquisition_type_orders
+What is the most frequently ordered item?,frequent_items
+Show me the most frequently purchased items in classification code 67890.?,classification_frequent_items
+How many orders were made under 'Open Market' acquisition type?,acquisition_type_orders
+Which departments use CalCard the most?,calcard_top_departments
+What is the total spending for fiscal year 2023?,fiscal_year_spending
+Which department uses 'CalCard' the most?,acquisition_type_department_usage
+How many items were ordered by the Transportation Department?,department_item_count
+Which order has the highest total price?,highest_total_price_order
+Show me the total price of all IT-related items.?,total_price_by_category
+Show me the total price of all IT-related items.?,total_price_by_category
+List all suppliers for the Education Department.?,department_suppliers
+Show me the details for item 'Laptop'.?,item_details
+How many orders were made last month?,total_orders
+Show me the most expensive item purchased in fiscal year 2021.?,fiscal_year_expensive_item
+What is the spending breakdown for the Health Department?,department_spending_breakdown
+What is the average quantity per order?,avg_quantity_per_order
+Show me the most frequently purchased items in classification code 67890.?,classification_frequent_items
+Which department uses 'CalCard' the most?,acquisition_type_department_usage
+What is the cheapest item purchased?,cheapest_item
+Show me all orders made using CalCard.?,calcard_orders
+Can you break it down by quarter?,total_price_by_quarter
+What is the cheapest item purchased?,cheapest_item
+How many orders were made under 'Open Market' acquisition type?,acquisition_type_orders
+What is the total quantity of items ordered?,total_quantity
+What is the most frequent acquisition method for IT items?,acquisition_method_frequency
+How many orders were placed in fiscal year 2022?,fiscal_year_orders
+How many orders were placed in fiscal year 2022?,fiscal_year_orders
+Which order has the highest total price?,highest_total_price_order
+Which supplier has the highest total revenue?,supplier_top_revenue
+Show the total spending for supplier XYZ in Q4 2020.,supplier_spending
+How many items were ordered by the Transportation Department?,department_item_count
+Which supplier fulfilled purchase order PO98765?,purchase_order_supplier
+Which items are frequently purchased using CalCard?,calcard_frequent_items
+What is the spending breakdown by classification code?,classification_spending_breakdown
+Which classification code has the highest total spending?,top_classification_code
+What is the total value of purchase order PO67890?,purchase_order_value
+Show me the unit price for item 'Desktop'.?,unit_price_item
+Show me all orders made using CalCard.?,calcard_orders
+Show me the total price of all IT-related items.?,total_price_by_category
+List the top suppliers for the 'Direct Purchase' acquisition type.?,acquisition_type_top_suppliers
+What is the most frequent acquisition method for IT items?,acquisition_method_frequency
+"What were the top 5 suppliers by spending last year, and their highest revenue months?",supplier_top_revenue
+What orders were placed with Supplier X?,supplier_orders
+List the acquisition methods used by Department of Education.?,acquisition_method_department
+Show me the most expensive item purchased in fiscal year 2021.?,fiscal_year_expensive_item
+Which supplier has the highest total revenue?,supplier_top_revenue
+Which department spent the most overall?,highest_spending_department
+Show me the total spending by acquisition method 'Bidding'.?,acquisition_method_spending
+Howdy!,greeting
+Number of orders recorded between 2023-01-01 and 2023-03-31?,total_orders
+What is the spending by each department?,department_spending
+How many orders were placed in fiscal year 2022?,fiscal_year_orders
+Which items are frequently purchased using CalCard?,calcard_frequent_items
+Which classification code has the highest total spending?,top_classification_code
+Show me all items ordered in quantities greater than 100.?,large_quantity_orders
+List all items under classification code 12345.?,classification_items
+Show me the details for item 'Laptop'.?,item_details
+How many items were ordered by the Transportation Department?,department_item_count
+List all orders made with Supplier Y.?,supplier_orders
+Show me the items purchased from Supplier X.?,supplier_items
+Show me the most frequently purchased items in classification code 67890.?,classification_frequent_items
+What is the total spending using CalCard?,calcard_total_spending
+What is the cheapest item purchased?,cheapest_item
+What is the total value of purchase order PO67890?,purchase_order_value
+Which departments use CalCard the most?,calcard_top_departments
+List the most frequently ordered items.?,frequent_items
+What is the cheapest item purchased?,cheapest_item
+What is the total spending for fiscal year 2023?,fiscal_year_spending
+What is the total spending for fiscal year 2023?,fiscal_year_spending
+Which order had the biggest total price?,largest_order
+What is the spending breakdown for the Health Department?,department_spending_breakdown
+What items were ordered in PO54321?,purchase_order_items
+Which order has the highest total price?,highest_total_price_order
+Show me the details of purchase order PO12345.?,purchase_order_details
+Which department uses 'CalCard' the most?,acquisition_type_department_usage
+What is the cheapest item purchased?,cheapest_item
+Whatâ€™s the total quantity of items purchased?,total_quantity
+Which departments use CalCard the most?,calcard_top_departments
+List the acquisition methods used by Department of Education.?,acquisition_method_department
+List all suppliers for the Education Department.?,department_suppliers
+What is the spending breakdown by classification code?,classification_spending_breakdown
+Can you break it down by quarter?,total_price_by_quarter
+How many orders were made under 'Open Market' acquisition type?,acquisition_type_orders
+Show me the total price of all IT-related items.?,total_price_by_category
+Tell me the total number of orders.,total_orders
+How much did the Health department spend?,department_spending_by_name
+How many orders were made under 'Open Market' acquisition type?,acquisition_type_orders
+Which items have the highest unit price?,expensive_items
+Which order has the highest total price?,highest_total_price_order
+Good morning! Can you tell me the fiscal year with the most orders?,fiscal_year_orders
+What is the spending breakdown by classification code?,classification_spending_breakdown
+What is the most frequent acquisition method for IT items?,acquisition_method_frequency
+Show me the unit price for item 'Desktop'.?,unit_price_item
+What is the total spending for fiscal year 2023?,fiscal_year_spending
+Which supplier has the highest total orders?,supplier_top_orders
+Which items have the highest unit price?,expensive_items
+Show me the items purchased from Supplier X.?,supplier_items
+How many orders were made under 'Open Market' acquisition type?,acquisition_type_orders
+Show me the items purchased from Supplier X.?,supplier_items
+What is the spending breakdown by classification code?,classification_spending_breakdown
+List the most frequently ordered items.?,frequent_items
+Total orders for the fiscal year 2019?,total_orders
+Which department orders the largest quantity of items?,quantity_top_department
+List the top suppliers for the 'Direct Purchase' acquisition type.?,acquisition_type_top_suppliers
+Show me the total price of all IT-related items.?,total_price_by_category
+Which acquisition method has the highest average unit price?,acquisition_method_avg_price
+Show me the details of purchase order PO12345.?,purchase_order_details
+Which department made the most purchases in 2023?,department_top_purchases
+Which order had the biggest total price?,largest_order
+Show me the most expensive item purchased in fiscal year 2021.?,fiscal_year_expensive_item
+List all suppliers for the Education Department.?,department_suppliers
+Which items are frequently purchased using CalCard?,calcard_frequent_items
+Which department spent the most overall?,highest_spending_department
+What is the most frequent acquisition method for IT items?,acquisition_method_frequency
+List all suppliers for the Education Department.?,department_suppliers
+What is the most frequently ordered item?,frequent_items
+How many orders were made under 'Open Market' acquisition type?,acquisition_type_orders
+How many orders were made under 'Open Market' acquisition type?,acquisition_type_orders
+Show me all orders made using CalCard.?,calcard_orders
+Show me all items ordered in quantities greater than 100.?,large_quantity_orders
+What is the spending breakdown by classification code?,classification_spending_breakdown
+Which departments use CalCard the most?,calcard_top_departments
+List the acquisition methods used by Department of Education.?,acquisition_method_department
+Show me all orders made using CalCard.?,calcard_orders
+What is the most frequent acquisition method for IT items?,acquisition_method_frequency
+Which supplier had the highest order count from the list you provided?,supplier_orders
+List the acquisition methods used by Department of Education.?,acquisition_method_department
+How many orders were made under 'Open Market' acquisition type?,acquisition_type_orders
+How much did the Health department spend?,department_spending_by_name
+Show me the most frequently purchased items in classification code 67890.?,classification_frequent_items
+List the most frequently ordered items.?,frequent_items
+What is the total spending with supplier S1234?,supplier_spending
+Which department orders the largest quantity of items?,quantity_top_department
+What is the total spending for fiscal year 2023?,fiscal_year_spending
+Show me the details of purchase order PO12345.?,purchase_order_details
+Which acquisition method has the highest average unit price?,acquisition_method_avg_price
+Show me all items ordered in quantities greater than 100.?,large_quantity_orders
+Show me the total price of all IT-related items.?,total_price_by_category
+What is the spending breakdown for the Health Department?,department_spending_breakdown
+What is the total quantity of items ordered?,total_quantity
+Which items are frequently purchased using CalCard?,calcard_frequent_items
+Show me the items purchased from Supplier X.?,supplier_items
+What is the spending breakdown by classification code?,classification_spending_breakdown
+Which department orders the largest quantity of items?,quantity_top_department
+List items purchased in bulk quantities.?,bulk_items
+"What were the top 5 suppliers by spending last year, and their highest revenue months?",supplier_top_revenue
+List items purchased in bulk quantities.?,bulk_items
+Which items are most frequently ordered?,frequent_line_items
+What is the total price of all orders in Q2 2023?,total_price_by_quarter
+Which classification code has the highest total spending?,top_classification_code
+Which items have the highest unit price?,expensive_items
+What is the total spending for fiscal year 2023?,fiscal_year_spending
+Which department spent the most in fiscal year 2020?,fiscal_year_top_department
+Show me the details for item 'Laptop'.?,item_details
+List the acquisition methods used by Department of Education.?,acquisition_method_department
+"Hi there, can you show me the highest unit price items for 2022?",high_unit_price_items
+What is the average quantity per order?,avg_quantity_per_order
+What is the total spending with supplier S1234?,supplier_spending
+Which departments use CalCard the most?,calcard_top_departments
+Good morning,greeting
+Can you break it down by quarter?,total_price_by_quarter
+What items were ordered in PO54321?,purchase_order_items
+How much did the Health department spend?,department_spending_by_name
+Show me the quarter with the most spending.?,show_highest_spending_quarter
+What is the total price of all orders in Q2 2023?,total_price_by_quarter
